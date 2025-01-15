@@ -1,3 +1,9 @@
+# einvoice integration CLI
+
+This project provides a Command-Line Interface (CLI) for integrating online invoice processing with the state portal **eFaktura**. 
+
+Built using **Golang** and the **Cobra CLI** library, it simplifies and automates interactions with invoices in compliance with state portal's requirements.
+
 # Configuration Instructions
 
 ## Setup
